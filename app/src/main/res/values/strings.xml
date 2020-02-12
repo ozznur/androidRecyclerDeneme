@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">RecyclerViewTest</string>
+   <string name="button">Button</string>
+   <string name="textview">TextView</string>
+    <string name="son">SON</string>
+    <string name="s_m">İSİM</string>
+    <string name="seh_r">SEHİR</string>
+    <string name="isim_giriniz">isim giriniz</string>
+    <string name="sehir_giriniz">sehir giriniz</string>
+    <string name="oznur">oznur</string>
+    <string name="name">Name</string>
+    <string name="isim_ekle">isim ekle</string>
+    <string name="s_m_ekle">İSİM EKLE</string>
+    <string name="sehir_ekle">sehir ekle</string>
+    <string name="seh_r_ekle">SEHİR EKLE</string>
+    <string name="da_it">DAĞIT</string>
+    <string name="s_l">SİL</string>
+
+</resources>
